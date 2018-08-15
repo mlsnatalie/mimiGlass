@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_3b0e66ace8ff7c64648c1b36c236aa5a3cf7831a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_b9054e97b399b2e146da558734ff70bd318294de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_e62a7e8977fc7756238264c6474d736c143fd3ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\xUtils-2.6.14_e19b2c5a91a3305eec258353d5f4891d48fca810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\retrofit-2.1.0_fd9bf6ba22cba8d9d22faf561f57d4b3339a9af8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dd295b07ecc7592453240a5ab88ccdc59104a8c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_82f30a4337eb5cd553c6f96fadaa5b49c4be2707\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_5dca634d72fde4514dd63c1b690d0e40b4b8cc98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_291794219df3303b45880babaa554eaf3b6b6033\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.0_a06af2028cb786be8d5aaa957adfa7f5d441483a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7b754f3f31bbdf08bf5e1bd62d3c511ea2745995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_27e5ddc20bb28a6b37e3c36f2cb748b4c2ba5660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.meikoz.basic\core\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bab077eb3875138695589bc5b4337925fc8e3dc">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.meikoz.basic-core-1.0.5_967863aace075bf13c51b3e3c968ea6bf937dacf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_8adcefaa160ae59388c924d4dad1ffd6c420c5d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_74dabfe3911b287a6d3233a1af6b7ff85f9a578e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_7748cb4381f0de9ca636d774bfcb9a97791e283b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_59e6055238600247c73d2eaa2a28070a8f7693a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_6162997686132167a94d2e6fb0468bf0d6d96f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_22eeb3b44ada575210f606419d4dd03340189e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-22.2.1_7748cb4381f0de9ca636d774bfcb9a97791e283b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_59e6055238600247c73d2eaa2a28070a8f7693a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\jpush-android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec655472ad073dd34019d3e2134e028f570598d9">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.2.0_39d36289708ef4d407bb1d3152c24618eb47f953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\ssiwofacengin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="07cf76cbde8f86529122dd21f3c1756051f9880f">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\2\ssiwofacengin_6021261b30e23abc491dded0089e8af6ef25397b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6660e1dedaaa79354acdbeb795563e1ef5bf9ea8">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_5e6205ca31992f8d840af041af192cd79a42bf38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_f86b8c5a921c6cfffa3154c7888b8ddaef95265a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_b99d1b6eaabaf0c34711d4d2fb87d6afb74d6725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_1cabafd56fe3c7955f69f7b1bb530f65afd83a5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_76dad9c3bc8958ddb2f9e7ee1d268bc868f02412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_fca72281a946327d070dbc4e695e03a05887d48e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\rxjava-1.1.5_511f23636d5c69f76c1f91286784102f6f9c2fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\gson-2.7_ea4a98cb7d8e141430c6236ee73a96c061060c9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5fa4d21e1fb593c69131be401f69834c4f2bd30c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_b5f836a56d7f90638a9dc929d93676cb227388a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\de.hdodenhof-circleimageview-2.1.0_fa79f4fcdcfccf05072bc7161d5cefe9f75c13e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2386451ff01b9f69e1915d5758f8a1bc1b33dfa7">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fa369a65705a1c9bb36a41f9e5564f50ff19a26f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_0f1d546e413cd3c20e4d7b471ffe60ab849388de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8724aa78d586fd21c9e57fe5091a648b4aab4b52">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bcfbd41fc5f82df50d239641a7370a328bbb294d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.2.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0724e4d93c85866c8953b74776fa320efa122205">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jcodecraeer-xrecyclerview-1.2.7_9911e7d6fa04758a90034f67b0d49e8200eb70b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\io.reactivex-rxandroid-1.2.0_838a3e9484a77d92711621e1338d6058b00f11b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_f65222d398464481f41f4eff36d1a8212f7ac5ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_5d5a375ada1906aa6e813fdf7f8e93c5c86ab01c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_3b0e66ace8ff7c64648c1b36c236aa5a3cf7831a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_dd295b07ecc7592453240a5ab88ccdc59104a8c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_e19b2c5a91a3305eec258353d5f4891d48fca810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_e62a7e8977fc7756238264c6474d736c143fd3ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_fd9bf6ba22cba8d9d22faf561f57d4b3339a9af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\butterknife-7.0.1_82f30a4337eb5cd553c6f96fadaa5b49c4be2707.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_5dca634d72fde4514dd63c1b690d0e40b4b8cc98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b9054e97b399b2e146da558734ff70bd318294de\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_7b754f3f31bbdf08bf5e1bd62d3c511ea2745995.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_a06af2028cb786be8d5aaa957adfa7f5d441483a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\okio-1.9.0_27e5ddc20bb28a6b37e3c36f2cb748b4c2ba5660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\okhttp-3.4.1_291794219df3303b45880babaa554eaf3b6b6033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6660e1dedaaa79354acdbeb795563e1ef5bf9ea8">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\unity-classes_5e6205ca31992f8d840af041af192cd79a42bf38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.getbase-floatingactionbutton-1.10.1_22eeb3b44ada575210f606419d4dd03340189e68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_8adcefaa160ae59388c924d4dad1ffd6c420c5d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.meikoz.basic\core\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bab077eb3875138695589bc5b4337925fc8e3dc">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.meikoz.basic-core-1.0.5_967863aace075bf13c51b3e3c968ea6bf937dacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_74dabfe3911b287a6d3233a1af6b7ff85f9a578e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\adapter-rxjava-2.1.0_6162997686132167a94d2e6fb0468bf0d6d96f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\ssiwofacengin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="07cf76cbde8f86529122dd21f3c1756051f9880f">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\ssiwofacengin_6021261b30e23abc491dded0089e8af6ef25397b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\logging-interceptor-3.4.1_fca72281a946327d070dbc4e695e03a05887d48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_f86b8c5a921c6cfffa3154c7888b8ddaef95265a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_b99d1b6eaabaf0c34711d4d2fb87d6afb74d6725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_1cabafd56fe3c7955f69f7b1bb530f65afd83a5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.5_511f23636d5c69f76c1f91286784102f6f9c2fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_5fa4d21e1fb593c69131be401f69834c4f2bd30c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\libs\jpush-android-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec655472ad073dd34019d3e2134e028f570598d9">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\jpush-android-2.2.0_39d36289708ef4d407bb1d3152c24618eb47f953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.0_76dad9c3bc8958ddb2f9e7ee1d268bc868f02412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_0f1d546e413cd3c20e4d7b471ffe60ab849388de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ea4a98cb7d8e141430c6236ee73a96c061060c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\glide-3.7.0_b5f836a56d7f90638a9dc929d93676cb227388a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_fa79f4fcdcfccf05072bc7161d5cefe9f75c13e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.2.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0724e4d93c85866c8953b74776fa320efa122205">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\com.jcodecraeer-xrecyclerview-1.2.7_9911e7d6fa04758a90034f67b0d49e8200eb70b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.0_838a3e9484a77d92711621e1338d6058b00f11b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ssiwo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\pre-dexed\release\converter-gson-2.1.0_5d5a375ada1906aa6e813fdf7f8e93c5c86ab01c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_f65222d398464481f41f4eff36d1a8212f7ac5ff\classes.dex" />
+    </item>
+
+</items>

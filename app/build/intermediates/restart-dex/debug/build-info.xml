@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86,armeabi-v7a,armeabi,arm64-v8a"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="19474470703966"
+    token="1643514852358542378"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1913" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="595" />
+    <task
+        name="verifier"
+        duration="4541" />
+
+    <artifact
+        location="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="19474470703966"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Ssiwo\Desktop\linshi\MimiGlasses2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
